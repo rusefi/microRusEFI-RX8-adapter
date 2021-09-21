@@ -1,4 +1,4 @@
-# microRusEFI-RX8-adapter
+# proteus-RX8-adapter
 
 Easy to solder breakout board for https://github.com/mck1117/proteus to meet 
 [RX8 2004](https://github.com/rusefi/rusefi/wiki/Mazda-RX8-2004) 
